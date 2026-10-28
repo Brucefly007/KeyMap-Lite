@@ -1,0 +1,9 @@
+# KeyMapLite 状态文件，程序自动读写，无需手动编辑
+version=1
+paused=0
+mode=replace
+rule=294,104,1
+rule=295,102,1
+rule=296,98,1
+rule=293,100,1
+rule=163,101,1

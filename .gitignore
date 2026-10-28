@@ -1,0 +1,5 @@
+# 本地运行时状态可自行改；示例 state.txt 仍纳入版本库
+*.user
+*.suo
+bin/
+obj/
